@@ -1,0 +1,24 @@
+ .head {
+        font-style: italic;
+        font-size: 75px;
+        padding-right: 1cm;
+        padding-top: -1cm;
+        }
+
+ #bold1 {
+         color: white;
+        }
+.ctg-box{
+ width:114px;
+ height:40px;
+ background-color:white;
+}
+.form-control {
+padding-right: 1cm;
+padding-left: 1cm;
+height:40px;
+width:300px;
+boarder:none;
+
+}
+
